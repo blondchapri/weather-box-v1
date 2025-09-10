@@ -1,10 +1,10 @@
 # weather-box-v1
 a small weather station for personal use 
 ## core components used 
-esp 32
-BME280
-SGP40-D-R4
-WS2812B
+- esp 32
+- BME280
+- SGP40-D-R4
+- WS2812B
 # pcb layout 
 <img width="1131" height="615" alt="image" src="https://github.com/user-attachments/assets/d2deddd7-a44b-492c-9f47-71df49d6bbf8" />
 <img width="1194" height="659" alt="image" src="https://github.com/user-attachments/assets/f872b311-87c4-4fd4-962b-f12071159560" />
