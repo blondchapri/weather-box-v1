@@ -13,7 +13,6 @@ I have used 0805 package for the caps and resistors. \
 # PCB Layout 
 <img width="1131" height="615" alt="image" src="https://github.com/user-attachments/assets/d2deddd7-a44b-492c-9f47-71df49d6bbf8" /> \
 <img width="1194" height="659" alt="image" src="https://github.com/user-attachments/assets/f872b311-87c4-4fd4-962b-f12071159560" /> \
-<img width="997" height="548" alt="image" src="https://github.com/user-attachments/assets/d40409d4-7be6-4803-a28e-c9f6fee28e00" /> \
-
+<img width="997" height="548" alt="image" src="https://github.com/user-attachments/assets/d40409d4-7be6-4803-a28e-c9f6fee28e00" /> 
 # Schematic
-<img width="1167" height="828" alt="image" src="https://github.com/user-attachments/assets/72bf6e3c-c269-4aca-b385-9f33091f6924" /> \
+<img width="1167" height="828" alt="image" src="https://github.com/user-attachments/assets/72bf6e3c-c269-4aca-b385-9f33091f6924" /> 
