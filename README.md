@@ -17,5 +17,3 @@ I have used 0805 package for the caps and resistors. \
 
 # Schematic
 <img width="1167" height="828" alt="image" src="https://github.com/user-attachments/assets/72bf6e3c-c269-4aca-b385-9f33091f6924" /> \
-
-
