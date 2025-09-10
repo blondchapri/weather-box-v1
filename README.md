@@ -1,5 +1,10 @@
 # Weather-Box-V1
-A small weather station for personal use 
+A small weather station for personal use
+it displays the AQI using the neo pixel, AQI threshold of each colour can be configured 
+it also shows probability of rain, I have personally configured it as red for rain and green for no rain but some psychopaths may like rain so they can do the opposite as well 
+It can perform data logging using Wi-Fi and your pc as a server 
+for power use a power bank or you can connect a 3v3 battery to the pins as well if u like that more 
+i have used 0805 package for the caps and resistors
 ## Core Components Used 
 - ESP-32
 - BME280
