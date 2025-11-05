@@ -6,7 +6,7 @@ It displays the AQI using the neopixels, AQI threshold of each colour can be con
 It also shows probability of rain, I have personally configured it as red for rain and green for no rain but some psychopaths may like rain so they can do the opposite as well. \ 
 It can perform data logging using Wi-Fi and your pc as a server. \
 For power use a power bank or you can connect a 3v3 battery to the pins as well if u like that more. \
-I have used 0805 package for the caps and resistors. \
+I have used 0805 package for the caps and resistors. <br>
 ## Core Components Used 
 - ESP-32
 - BME280
