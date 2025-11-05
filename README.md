@@ -1,3 +1,5 @@
+<img width="1709" height="757" alt="image" src="https://github.com/user-attachments/assets/88f3ef70-d26a-452e-b63f-beb3a486b964" /> <br>
+
 # Weather-Box-V1
 A small weather station for personal use. \
 It displays the AQI using the neopixels, AQI threshold of each colour can be configured. \
